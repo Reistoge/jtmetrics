@@ -1,6 +1,6 @@
 {
   "name": "jtmetrics",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "JTMetrics is a lightweight and extensible library for calculating code metrics in JavaScript and TypeScript repositories.",
   "main": "src/index.js",
   "type": "module",
